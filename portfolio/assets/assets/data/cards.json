@@ -1,0 +1,22 @@
+{
+    "cards": [
+        {
+            "imagepath": "assets/images/twinsninja.png",
+            "title": "簡単なゲーム",
+            "uselang": "Swift",
+            "githuburl": "http:/hogehoge"
+        },
+        {
+            "imagepath": "assets/images/algorithm.png",
+            "title": "アルゴリズム",
+            "uselang": "Swift",
+            "githuburl": "http:/hogehoge"
+        },
+        {
+            "imagepath": "assets/images/raspi.jpg",
+            "title": "ラズパイリモコン",
+            "uselang": "Swift・PHP",
+            "githuburl": "http:/hogehoge"
+        }
+    ]
+}

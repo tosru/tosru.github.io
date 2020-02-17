@@ -4,25 +4,29 @@
             "imagepath": "assets/images/twinsninja.png",
             "title": "簡単なゲーム",
             "uselang": "Swift",
-            "githuburl": ""
+            "urltitle": "Demo(YouTube)",
+            "url": "https://youtu.be/alMdgPLcCL0"
         },
         {
             "imagepath": "assets/images/algorithm.png",
             "title": "アルゴリズム",
             "uselang": "Swift",
-            "githuburl": "https://github.com/tosru/Algorithm"
+            "urltitle": "GitHub",
+            "url": "https://github.com/tosru/Algorithm"
         },
         {
             "imagepath": "assets/images/raspi.jpg",
             "title": "ラズパイリモコン",
             "uselang": "Swift・PHP",
-            "githuburl": ""
+            "urltitle": "Demo(YouTube)",
+            "url": "https://youtu.be/KeRL6_1PODE"
         },
         {
             "imagepath": "assets/images/portfolio.png",
             "title": "ポートフォリオ(このサイト)",
             "uselang": "Flutter",
-            "githuburl": "https://github.com/tosru/Portfolio"
+            "urltitle": "GitHub",
+            "url": "https://github.com/tosru/Portfolio"
         }
     ]
 }
